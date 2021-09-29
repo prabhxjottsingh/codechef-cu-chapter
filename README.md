@@ -1,0 +1,1 @@
+This is a repository, where I upload solutions to the code that we have to practise as a part of our curriculum, for practise, on codechef college chapters section.
