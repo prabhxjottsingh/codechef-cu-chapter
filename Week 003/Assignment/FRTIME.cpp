@@ -1,10 +1,8 @@
 //Problem Link: https://www.codechef.com/CUPA2101/problems/FRTIME
 
-//using 2D-arrays
-
 //Problem Link: https://www.codechef.com/CUPA2101/problems/FRTIME
 
-//Using Vectors
+//using 2D-arrays
 #include <bits/stdc++.h>
 using namespace std;
 
