@@ -1,3 +1,7 @@
 My third semester is going on.
 This is the fourth week contest of CU Chapter on Codechef.
 01 November'21 - 07 November'21
+
+Note: Haven't done binary search yet, so took help from some editorials while solving this week's solutions. :)
+
+Will surely try these questions again, after once going thru the binary search and will surely update the code completly without any palgiarism, sorry for this week :)
