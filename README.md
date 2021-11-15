@@ -10,6 +10,15 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 
 ## Assignments:
 
+### Week 6
+- Topic: **Advance STL**
+
+| Problem     | Question Link | Solution Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| Count Distinct Numbers (DISCNTK)      |<a href = "https://www.codechef.com/CUPA2101/problems/DISCNTK">Question</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Week%20006/Assignment/DISCNTK.cpp">Solution</a> 
+| Practise Problems      |<a href = "https://www.codechef.com/CUPP2101">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/Week%20006/Practise">Solutions</a> 
+<br>
+
 ### Week 5
 - Topic: **Stacks, Linked List**
 
