@@ -11,7 +11,7 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 ## Assignments:
 
 ### Week 6
-- Topic: **Advance STL**
+- Topic: **Queues**
 
 | Problem     | Question Link | Solution Link   |
 | :----------- | :-----------:   |  :-----------:    |
