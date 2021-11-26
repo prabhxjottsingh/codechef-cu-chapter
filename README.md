@@ -10,6 +10,16 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 
 ## Assignments:
 
+### Week 7
+- Topic: **Trees**
+
+| Problem     | Question Link | Solution Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| The Next Big Thing (TNBT)      |<a href = "https://www.codechef.com/CUPA2101/problems/TNBT">Question</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Week%20007/Assignment/DISCNTK.cpp">Solution</a> 
+| Practise Problems      |<a href = "https://www.codechef.com/CUPP2101">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/Week%20007/Practise">Solutions</a> 
+<br>
+
+
 ### Week 6
 - Topic: **Queues**
 
