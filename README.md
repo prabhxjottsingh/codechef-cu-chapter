@@ -86,7 +86,7 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 <br>
 
 - Assignment Problems Link: <a href = "#"> ```Not Released Yet``` </a>
-- Practise Problems Link: <a href = "#"> ```Not Released Yet``` </a>
+- Practise Problems Link: <a href = "https://www.codechef.com/CUNPPP0001"> ```Click Here``` </a>
 
 <details>
 <summary>
