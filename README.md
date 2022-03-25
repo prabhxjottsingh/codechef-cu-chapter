@@ -82,18 +82,33 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 </details>
 
 <details open>
-<summary> Semester 4
+<summary> Semester 4</summary>
 <br>
 
-- Assignments Problems Link: <a href = "#"> ```Not Released Yet``` </a>
+- Assignment Problems Link: <a href = "#"> ```Not Released Yet``` </a>
+- Practise Problems Link: <a href = "#"> ```Not Released Yet``` </a>
 
-## Practise Problem Set:
+<details>
+<summary>
+Practise Problem Set
+</summary>
+<br>
 
-### Week 1
+<details open>
+<summary>
+Week 1
+</summary>
+
 - Topic: **Basics**
 
 | Problem     | Question Link | Solution Link   |
 | :----------- | :-----------:   |  :-----------:    |
-| Add Two Numbers (FLOW001)      |<a href = "https://www.codechef.com/CUNPPP0001/problems/FLOW001">Question</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Week%20007/Assignment/DISCNTK.cpp">Solution</a> 
-| Practise Problems      |<a href = "https://www.codechef.com/CUPP2101">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/Week%20007/Practise">Solutions</a> 
+| Add Two Numbers      |<a href = "https://www.codechef.com/CUNPPP0001/problems/FLOW001" target = "_blank">Question</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Semester%204/Week%2001/Practise/AddTwoNumbers.py" target = "_blank">Solution</a> 
+| Second Max of Three Numbers      |<a href = "https://www.codechef.com/CUNPPP0001/problems/SNDMAX" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Semester%204/Week%2001/Practise/SecondMaxofThreeNumbers.py" target = "_blank">Solutions</a> 
 <br>
+</details>
+
+</detials>
+
+
+</details>
