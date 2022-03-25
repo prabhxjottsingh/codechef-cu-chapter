@@ -104,7 +104,7 @@ Week 1
 | Problem     | Question Link | Solution Link   |
 | :----------- | :-----------:   |  :-----------:    |
 | Add Two Numbers      |<a href = "https://www.codechef.com/CUNPPP0001/problems/FLOW001" target = "_blank">Question</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Semester%204/Week%2001/Practise/AddTwoNumbers.py" target = "_blank">Solution</a> 
-| Second Max of Three Numbers      |<a href = "https://www.codechef.com/CUNPPP0001/problems/SNDMAX" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Semester%204/Week%2001/Practise/SecondMaxofThreeNumbers.py" target="_blank">Solutions</a> 
+| Second Max of Three Numbers      |<a href = "https://www.codechef.com/CUNPPP0001/problems/SNDMAX" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/blob/master/Semester%204/Week%2001/Practise/SecondMaxofThreeNumbers.py" rel="noopener noreferrer" target="_blank">Solutions</a> 
 <br>
 </details>
 
