@@ -13,5 +13,5 @@ numberOfTestCases = int(input())
 for i in range(numberOfTestCases):
     array = get_array()
     gcdOfTwoElements = findGCD(array[1], array[0])
-    hcfOfTwoElements = (int)(array[1]*array[0]/gcd);
+    hcfOfTwoElements = (int)(array[1]*array[0]/gcdOfTwoElements)
     print(gcdOfTwoElements, hcfOfTwoElements)
