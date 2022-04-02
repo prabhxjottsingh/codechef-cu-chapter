@@ -5,11 +5,11 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 
 
 <details>
-<summary>Semester 3</summary>
+<summary>September'21 - November'21</summary>
 <br>
 
-- Assignments Problems Link: <a href = "https://www.codechef.com/CUPA2101">Click Here</a>
-- Practise Problems Link: <a href = "https://www.codechef.com/CUPP2101">Click Here</a>
+- Assignments Problems Link: <a href = "https://www.codechef.com/CUPA2101">```Click Here```</a>
+- Practise Problems Link: <a href = "https://www.codechef.com/CUPP2101">```Click Here```</a>
 
 <br>
 
@@ -82,7 +82,7 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 </details>
 
 <details open>
-<summary> Semester 4</summary>
+<summary> March'22 - May' 22</summary>
 <br>
 
 - Assignment Problems Link: <a href = "#"> ```Not Released Yet``` </a>
@@ -112,3 +112,4 @@ Week 1
 
 
 </details>
+
