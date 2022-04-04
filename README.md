@@ -85,18 +85,19 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 <summary> March'22 - May' 22</summary>
 <br>
 
-- Assignment Problems Link: <a href = "#"> ```Not Released Yet``` </a>
-- Practise Problems Link: <a href = "#"> ```Not Released Yet``` </a>
-
 <details>
 <summary>
-Practise Problem Set
+Week 1
 </summary>
 <br>
 
+
+- Assignment Problems Link: <a href = "#"> ``` No Assignments in Week - 1``` </a>
+- Practise Problems Link: <a href = "https://www.codechef.com/CUNPPP0001"> ```Click Here``` </a>
+
 <details open>
 <summary>
-Week 1
+Practise Problem Set
 </summary>
 
 - Topic: **Basics**
@@ -110,6 +111,23 @@ Week 1
 
 </detials>
 
-
 </details>
+
+<details open>
+<summary>
+Week 2
+</summary>
+<br>
+
+
+- Topic: **Greedy/Constructive Algorithm**
+
+| Problem     | Question Link | Solution Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0002" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2002/Practise" target = "_blank">Solutions</a> 
+| Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0001" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2002/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
+<br>
+</details>
+
+</detials>
 
