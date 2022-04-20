@@ -113,12 +113,11 @@ Practise Problem Set
 
 </details>
 
-<details open>
+<details>
 <summary>
 Week 2
 </summary>
 <br>
-
 
 - Topic: **Greedy/Constructive Algorithm**
 
@@ -126,6 +125,21 @@ Week 2
 | :----------- | :-----------:   |  :-----------:    |
 | Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0002" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2002/Practise" target = "_blank">Solutions</a> 
 | Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0001" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2002/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
+<br>
+</details>
+
+<details open>
+<summary>
+Week 3
+</summary>
+<br>
+
+- Topic: **Basic Maths**
+
+| Problem     | Questions Link | Solutions Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0003" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2003/Practise" target = "_blank">Solutions</a> 
+| Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0002/" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2003/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
 <br>
 </details>
 
