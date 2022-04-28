@@ -128,7 +128,7 @@ Week 2
 <br>
 </details>
 
-<details open>
+<details>
 <summary>
 Week 3
 </summary>
@@ -145,3 +145,19 @@ Week 3
 
 </detials>
 
+<details open>
+<summary>
+Week 4
+</summary>
+<br>
+
+- Topic: **Implementation**
+
+| Problem     | Questions Link | Solutions Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0004" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2004/Practise" target = "_blank">Solutions</a> 
+| Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0003/" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2004/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
+<br>
+</details>
+
+</detials>
