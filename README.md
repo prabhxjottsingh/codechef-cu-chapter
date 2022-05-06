@@ -145,7 +145,7 @@ Week 3
 
 </detials>
 
-<details open>
+<details>
 <summary>
 Week 4
 </summary>
@@ -157,6 +157,21 @@ Week 4
 | :----------- | :-----------:   |  :-----------:    |
 | Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0004" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2004/Practise" target = "_blank">Solutions</a> 
 | Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0003/" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2004/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
+<br>
+</details>
+
+<details open>
+<summary>
+Week 5
+</summary>
+<br>
+
+- Topic: **Basic**
+
+| Problem     | Questions Link | Solutions Link   |
+| :----------- | :-----------:   |  :-----------:    |
+| Practise Problem Set      |<a href = "https://www.codechef.com/CUNPPP0005" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2005/Practise" target = "_blank">Solutions</a> 
+| Assignment Problem Set      |<a href = "https://www.codechef.com/CUNAPP0004/" target = "_blank">Questions</a>         | <a href = "https://github.com/prabhxjottsingh/codechef-cu-chapter/tree/master/March'22%20-%20May'22/Week%2005/Assignment" rel="noopener noreferrer" target="_blank">Solutions</a> 
 <br>
 </details>
 
