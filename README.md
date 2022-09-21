@@ -81,7 +81,7 @@ In this is repository, I have uploaded the solutions to the problems that we hav
 
 </details>
 
-<details open>
+<details>
 <summary> March'22 - May' 22</summary>
 <br>
 
@@ -95,7 +95,7 @@ Week 1
 - Assignment Problems Link: <a href = "#"> ``` No Assignments in Week - 1``` </a>
 - Practise Problems Link: <a href = "https://www.codechef.com/CUNPPP0001"> ```Click Here``` </a>
 
-<details open>
+<details>
 <summary>
 Practise Problem Set
 </summary>
@@ -160,7 +160,7 @@ Week 4
 <br>
 </details>
 
-<details open>
+<details>
 <summary>
 Week 5
 </summary>
